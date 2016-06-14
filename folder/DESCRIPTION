@@ -12,6 +12,5 @@ Imports:
     magrittr,
     dplyr,
     ggplot2,
-    shiny,
     plotly
 RoxygenNote: 5.0.1
