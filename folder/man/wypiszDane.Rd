@@ -4,7 +4,7 @@
 \alias{wypiszDane}
 \title{Funckja wypisuje ilosc komentarzy, udostepnien oraz ilosc polubień dla wybranego banku}
 \usage{
-wypiszDane(typ, bank)
+wypiszDane(typ, bank, info)
 }
 \description{
 Funckja wypisuje ilosc komentarzy, udostepnien oraz ilosc polubień dla wybranego banku
