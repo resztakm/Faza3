@@ -1,19 +1,11 @@
-Package: faza3
+Package: pakiet
 Title: What the Package Does (one line, title case)
 Version: 0.0.0.9000
-Authors@R: c(person("Michał", "Resztak", role = c("ctb")),
-      person("Robert", "Trabczynski", role = c("ctb")),
-      person("Zosia", "Rogala", role = c("cre")),
-       email= "rogalaz@student.mini.pw.edu.pl"))
-Description: What the package does (one paragraph).
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Pakiet na trzecia faze projektu 2 z RiBD
 Depends:
-    R (>= 3.2.2)
-License: GPL-2
+    R (>= 3.3.0)
+License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Imports:
-    magrittr,
-    dplyr,
-    ggplot2,
-    plotly
 RoxygenNote: 5.0.1
