@@ -5,7 +5,7 @@
 
 
 
-wypiszPosty <- function(bank, daty, ilosc){
+wypiszPosty <- function(bank, daty, ilosc, info){
    
    posty <- (info[[bank]][info[[bank]]$date == daty[1], ])
    
