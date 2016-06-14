@@ -4,7 +4,7 @@
 \alias{wypiszPosty}
 \title{Funkcja wypisuje wybraną ilość postów dla wybranego banku}
 \usage{
-wypiszPosty(bank, daty, ilosc)
+wypiszPosty(bank, daty, ilosc, info)
 }
 \description{
 Funkcja wypisuje wybraną ilość postów dla wybranego banku
