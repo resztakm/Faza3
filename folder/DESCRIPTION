@@ -4,11 +4,11 @@ Version: 0.0.0.9000
 Authors@R: c(person("Michał", "Resztak", role = c("ctb")),
       person("Robert", "Trabczynski", role = c("ctb")),
       person("Zosia", "Rogala", role = c("cre")),
-       email= "baranowskae@student.mini.pw.edu.pl"))
+       email= "rogalaz@student.mini.pw.edu.pl"))
 Description: What the package does (one paragraph).
 Depends:
     R (>= 3.2.2)
-License: What license is it under?
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
 Imports:
