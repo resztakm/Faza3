@@ -6,8 +6,8 @@
 
 
 
-wypiszDane <- function(typ, bank) {
-   
+wypiszDane <- function(typ, bank, info) {
+
    dane <- info[[bank]][info[[bank]][, typ] > 0, c("date", typ)]
    colnames(dane)[2] <- "from_id"
    
