@@ -16,4 +16,5 @@ info <- function(){
   info$"Alior Bank" <- dane %>%
     filter(page_name == "AliorBankSA", is.na(parent_id), from_id != "366165933177") %>% 
     select(date, shares_count, like_count, comments_count, body)
+  info
 }
